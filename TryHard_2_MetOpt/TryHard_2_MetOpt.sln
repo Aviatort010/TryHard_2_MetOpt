@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryHard_2_MetOpt", "TryHard_2_MetOpt\TryHard_2_MetOpt.csproj", "{EAD9C1E6-31F2-4207-B1C8-118A996E05AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD9C1E6-31F2-4207-B1C8-118A996E05AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD9C1E6-31F2-4207-B1C8-118A996E05AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD9C1E6-31F2-4207-B1C8-118A996E05AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD9C1E6-31F2-4207-B1C8-118A996E05AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E69EB097-5533-44C1-8196-8B4A8A03C1CB}
+	EndGlobalSection
+EndGlobal

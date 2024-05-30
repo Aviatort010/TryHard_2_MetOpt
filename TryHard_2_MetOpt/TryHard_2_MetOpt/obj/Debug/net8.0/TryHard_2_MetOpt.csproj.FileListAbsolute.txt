@@ -1,0 +1,14 @@
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\TryHard_2_MetOpt\TryHard_2_MetOpt\obj\Debug\net8.0\TryHard_2_MetOpt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\TryHard_2_MetOpt\TryHard_2_MetOpt\obj\Debug\net8.0\TryHard_2_MetOpt.AssemblyInfoInputs.cache
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\TryHard_2_MetOpt\TryHard_2_MetOpt\obj\Debug\net8.0\TryHard_2_MetOpt.AssemblyInfo.cs
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\TryHard_2_MetOpt\TryHard_2_MetOpt\obj\Debug\net8.0\TryHard_2_MetOpt.csproj.CoreCompileInputs.cache
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\TryHard_2_MetOpt\TryHard_2_MetOpt\bin\Debug\net8.0\TryHard_2_MetOpt.exe
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\TryHard_2_MetOpt\TryHard_2_MetOpt\bin\Debug\net8.0\TryHard_2_MetOpt.deps.json
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\TryHard_2_MetOpt\TryHard_2_MetOpt\bin\Debug\net8.0\TryHard_2_MetOpt.runtimeconfig.json
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\TryHard_2_MetOpt\TryHard_2_MetOpt\bin\Debug\net8.0\TryHard_2_MetOpt.dll
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\TryHard_2_MetOpt\TryHard_2_MetOpt\bin\Debug\net8.0\TryHard_2_MetOpt.pdb
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\TryHard_2_MetOpt\TryHard_2_MetOpt\obj\Debug\net8.0\TryHard_2_MetOpt.dll
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\TryHard_2_MetOpt\TryHard_2_MetOpt\obj\Debug\net8.0\refint\TryHard_2_MetOpt.dll
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\TryHard_2_MetOpt\TryHard_2_MetOpt\obj\Debug\net8.0\TryHard_2_MetOpt.pdb
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\TryHard_2_MetOpt\TryHard_2_MetOpt\obj\Debug\net8.0\TryHard_2_MetOpt.genruntimeconfig.cache
+C:\Users\Святослав Иванович\Documents\Programms\C_sharp\TryHard_2_MetOpt\TryHard_2_MetOpt\obj\Debug\net8.0\ref\TryHard_2_MetOpt.dll
